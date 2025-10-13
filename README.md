@@ -90,6 +90,7 @@ Esta bóveda sirve como **centro de control** para el/la Director/a de Juego (DJ
 ## Directorio
 - [[Lore]]
 - [[Lugares]]
+- [[Jugadores]]
 - [[Objetos y Reliquias]]
 - [[Personajes]]
 	- [[PJs]]
