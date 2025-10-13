@@ -8,7 +8,8 @@ status: explorado
 ---
 Para preguntas, información y mas visitar el [discord](https://discord.gg/DMetxStrqt)
 # 📜 Contexto
-
+## ¿Por que se empezó esto?
+Vi este video: https://www.youtube.com/watch?v=DtDarHCRfHE y me dio la gana de hacer algo grande y para lo que no estoy nada capacitado.
 ## ¿Que es este proyecto?
 Esta bóveda sirve como **centro de control** para los Directores de Juego (DJs) y los jugadores, con herramientas para organizar personajes, sesiones, mecánicas y el mundo de juego.
 ## 🌍 ¿Qué es una campaña de estilo **West Marches**?
@@ -25,7 +26,7 @@ Una **campaña de estilo West Marches** es un enfoque único para jugar **TTRPGs
 ### 🎲 **Jugadores en control**
 En esta campaña, los jugadores tienen **total control** sobre sus decisiones y sobre el curso de la historia. No hay una narrativa predefinida que deban seguir; en lugar de eso, los jugadores **deciden qué hacer**, **a dónde ir** y **cuando y donde se tendrá una sesión**
 ## 🗓️ **Cómo empezar a jugar**
-Dirígete al canal "sesiones" en el servidor. Ahi encontraras una lista de las sesiones agendadas e instrucciones sobre como agendar una.
+Dirígete al canal "Agendar sesiones" en el servidor. Ahi encontraras una lista de las sesiones agendadas e instrucciones sobre como agendar una.
 ### Plantilla 
 ## 🤔 **Tal vez te guste si...**
 - **Te gusta la libertad** y quieres tener control sobre las decisiones de tus personajes.

@@ -1,0 +1,17 @@
+# Estructura del discord 
+- [ ] Para jugadores
+	- [ ] Reglas del sistema
+		- [ ] Poner los recursos de las reglas
+	- [ ] Suplementos
+	- [ ] Creación de personajes
+	- [ ] Objetos magicos
+	- [ ] Agendar Sesiones
+- [ ] Para Directores de juego
+	- [ ] Loot guidelines
+	- [ ] Como preparar
+	- [ ] Rincon de contenido util
+- [x] General
+	- [x] Memes
+	- [x] Actualizaciones al mapa
+	- [x]  Plaza principal
+	- [x] Plano etereo

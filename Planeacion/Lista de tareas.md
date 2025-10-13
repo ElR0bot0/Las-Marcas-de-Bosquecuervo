@@ -27,6 +27,10 @@ kanban-plugin: board
 
 ## Prioridad Alta
 
+- [ ] [[Hacer un hexcrawl]]
+- [ ] [[Crear El setting]]
+- [ ] [[Hacer los BBEGs]]
+- [ ] [[Llenar el mapa de calabozos]]
 - [ ] Mandar el mensaje por el grupo principal
 
 
