@@ -4,6 +4,8 @@
 		- [ ] Poner los recursos de las reglas
 	- [ ] Suplementos
 	- [ ] Creación de personajes
+		- [x] Subir el pdf de heroes
+		- [x] Subir el PDF de 
 	- [ ] Objetos magicos
 	- [ ] Agendar Sesiones
 - [x] Para Directores de juego
