@@ -1,1 +1,9 @@
-- [ ] asd a
+- [ ] Hacer la base del README
+	- [x] ahcer l abase con IA
+	- [ ] Moderarla
+	- [ ] Hacer la estructura de las carpetas
+- [ ] Instalar
+	- [ ] Excalidraw
+	- [ ] Kanban
+- [ ] Ver el video inicial otra vez https://www.youtube.com/watch?v=DtDarHCRfHE
+- [ ] Hacer el 
