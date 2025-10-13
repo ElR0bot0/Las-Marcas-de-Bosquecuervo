@@ -74,7 +74,7 @@ Esta bóveda sirve como **centro de control** para el/la Director/a de Juego (DJ
 │   ├── PJs/                      → Personajes jugadores (PJs)
 │   └── PNJs/                     → Personajes no jugadores (PNJs)
 ├── 🏰 Lugares/                   → Ciudades, regiones, mazmorras y lugares clave
-├── 🧭 Jugadores/                 → Gremios, clanes, reinos, órdenes, cultos
+├── 👤 Jugadores/                 → Los personas que jugaran en el juego
 ├── 🧰 Plugins/                   → Documentacion de como usar los plugins utilizados
 ├── 🎲 Reglas-y-Mecánicas/        → Reglas, movimientos y “homebrew” del sistema Nimble
 ├── 🪶 Sesiones/                  → Resúmenes, notas y registros de sesiones jugadas
