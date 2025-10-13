@@ -4,7 +4,6 @@ type: Base
 tags:
   - "#informativo"
   - "#completado"
-status: explorado
 ---
 Para preguntas, información y mas visitar el [discord](https://discord.gg/DMetxStrqt)
 # 📜 Contexto
@@ -106,7 +105,7 @@ Esta bóveda sirve como **centro de control** para el/la Director/a de Juego (DJ
 **Metadatos YAML recomendados:**
 Las notas de Obsidian poseen la capacidad de insertarles meta-información usando el formato YAML. Estos serán de gran ayuda al tratar de relacionar y consultar información y sus conexiones.
 
-He aquí un ejemplo de estos datos, para usar esta misma plantilla, copiala y pegala al inicio del la nota objetivo.
+He aquí un ejemplo de estos datos, cada plantilla debera tener unas propiedades epsecificas relevantes para ella. Aqui hay un ejemplo para lugares:
 ```YAML
 ---
 title: "LOC - Bosquecuervo"
