@@ -108,7 +108,7 @@ Cada héroe tiene 10 + STR ranuras de inventario para llevar equipo y botín (en
 
 ---
 
-**Nivelación**  
+## **Subida de nivel**  
 El GM puede permitirte subir de nivel (LVL) cada vez que completes una misión o aventura adecuadamente desafiante. En el nivel 1, esto podría ser tan simple como limpiar una madriguera de ratas enfadadas o rescatar a alguien del bosque. Cada nivel posterior generalmente tomará más esfuerzo (y por lo tanto, más tiempo).  
 Cuando un héroe sube de nivel:
 
