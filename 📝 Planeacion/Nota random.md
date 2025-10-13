@@ -6,10 +6,10 @@
 	- [ ] Creación de personajes
 	- [ ] Objetos magicos
 	- [ ] Agendar Sesiones
-- [ ] Para Directores de juego
-	- [ ] Loot guidelines
-	- [ ] Como preparar
-	- [ ] Rincon de contenido util
+- [x] Para Directores de juego
+	- [x] Loot guidelines
+	- [x] Como preparar
+	- [x] Rincon de contenido util
 - [x] General
 	- [x] Memes
 	- [x] Actualizaciones al mapa

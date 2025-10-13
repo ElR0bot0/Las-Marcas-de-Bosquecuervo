@@ -32,6 +32,7 @@ kanban-plugin: board
 - [ ] [[Hacer los BBEGs]]
 - [ ] [[Llenar el mapa de calabozos]]
 - [ ] Mandar el mensaje por el grupo principal
+- [ ] Hacer una guia de como preparar para una sesion
 
 
 ## En proceso

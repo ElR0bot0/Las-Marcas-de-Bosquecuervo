@@ -70,6 +70,7 @@ Esta bóveda sirve como **centro de control** para el/la Director/a de Juego (DJ
 │   ├── @Imágenes/               → Recursos visuales (mapas, retratos, referencias)
 │   └── @Plantillas/             → Plantillas de notas, personajes, lugares, escenas, etc.
 ├── 📜 Lore/                      → Historia, cronología, reinos, dioses y culturas
+├── 📝 Planeacion/        → Instrucciones y recursos para rapidamente planear tu sesion
 ├── 🧙‍♂️ Personajes/              → Fichas de personajes (PJ y PNJ)
 │   ├── PJs/                      → Personajes jugadores (PJs)
 │   └── PNJs/                     → Personajes no jugadores (PNJs)
