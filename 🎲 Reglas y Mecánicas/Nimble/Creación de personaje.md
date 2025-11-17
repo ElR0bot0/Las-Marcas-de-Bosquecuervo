@@ -19,7 +19,7 @@ Esto tendrá el mayor impacto en las decisiones que tomes sobre tu personaje y c
     
 - **TEJEDOR DE CANCIONES**. Una presencia inspiradora, ingenio afilado, lengua aún más afilada.
     
-- **CAMBIADOR DE TORMENTAS**. Maestro del clima, las bestias y la naturaleza.
+- **MUEVE DE TORMENTAS**. Maestro del clima, las bestias y la naturaleza.
     
 - **ZEPHYR**. Un artista marcial disciplinado con manos rápidas y pies veloces.
     
@@ -28,7 +28,7 @@ Esto tendrá el mayor impacto en las decisiones que tomes sobre tu personaje y c
 (y opcionalmente, elige tu **motivación aventurera**). ¿Qué hizo que tu héroe quisiera empezar a aventurarse? ¿Cómo conoces a los otros héroes?
 
 # **Paso 3**: Completa tu **Hoja de Personaje**. 
-Esta útil hoja te ayudará a seguir el rastro de tus estadísticas, habilidades, botín y otra información importante del juego sobre tu personaje (consulta la página 20).
+Esta útil hoja te ayudará a seguir el rastro de tus estadísticas, habilidades, botín y otra información importante del juego sobre tu personaje (consulta el siguiente mensaje).
 ## **1. Detalles Básicos y Estadísticas**  
 Rellena los detalles de tu personaje: Nombre, Ancestría, Clase, Nivel, Altura y Peso. Llena la flecha para tus **Tiradas con ventaja (+)** y **desventaja (–)**, y elige un arreglo de estadísticas (se recomienda: coloca los números más altos en las estadísticas CLAVE para tu clase).
 
@@ -95,7 +95,7 @@ Marca cualquier otra habilidad especial que obtengas de tu clase, ancestría, tr
 ---
 
 ## **7. Ranuras de Inventario**  
-Cada héroe tiene 10 + STR ranuras de inventario para llevar equipo y botín (en la mano, equipado o en la mochila).
+Cada héroe tiene 10 + STR ranuras de inventario para llevar equipo y botín (en la mano, equipado o en la mochila). (Opcionalmente, imprime la hoja de inventario para hacer seguimiento de donde tiene las cosas tu personaje.)
 
 - **1 ranura** puede contener un arma de una mano, un escudo, armadura equipada, una pila de jabalinas, 500 gp o 2 pociones.
     
@@ -108,8 +108,22 @@ Cada héroe tiene 10 + STR ranuras de inventario para llevar equipo y botín (en
 
 ---
 
-## **Subida de nivel**  
-El GM puede permitirte subir de nivel (LVL) cada vez que completes una misión o aventura adecuadamente desafiante. En el nivel 1, esto podría ser tan simple como limpiar una madriguera de ratas enfadadas o rescatar a alguien del bosque. Cada nivel posterior generalmente tomará más esfuerzo (y por lo tanto, más tiempo).  
+## **Subida de nivel** 
+Cuando tu grupo acaba con un grupo de enemigos, descubres secretos, terminas una misión o cualquier cosa que tu DJ considere pertinente,  ganaras puntos de experiencia. Al ganar suficientes  puntos de experiencia subirás de nivel acorde a como se muestra en la siguiente tabla:
+
+| **Puntos de experiencia** | **Nivel** |     | **Puntos de experiencia** | **Nivel** |
+| ------------------------- | --------- | --- | ------------------------- | --------- |
+| 0                         | 1         |     | 85,000                    | 11        |
+| 300                       | 2         |     | 100,000                   | 12        |
+| 900                       | 3         |     | 120,000                   | 13        |
+| 2,700                     | 4         |     | 140,000                   | 14        |
+| 6,500                     | 5         |     | 165,000                   | 15        |
+| 14,000                    | 6         |     | 195,000                   | 16        |
+| 23,000                    | 7         |     | 225,000                   | 17        |
+| 34,000                    | 8         |     | 265,000                   | 18        |
+| 48,000                    | 9         |     | 305,000                   | 19        |
+| 64,000                    | 10        |     | 355,000                   | 20        |
+
 Cuando un héroe sube de nivel:
 
 - **Incremento de HP**: Lanza tu Dado de Vida con ventaja y aumenta tu HP máximo en la cantidad obtenida.

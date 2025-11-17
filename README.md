@@ -96,7 +96,7 @@ Esta bóveda sirve como **centro de control** para el/la Director/a de Juego (DJ
 - [[Personajes]]
 	- [[PJs]]
 	- [[PNJs]]
-- [[Reglas y mecanicas]]
+- [[Reglas y mecánicas]]
 - [[Sesiones]]
 - [[Objetos y Reliquias]]
 - [[Sesiones]]

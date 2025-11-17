@@ -27,25 +27,29 @@ kanban-plugin: board
 
 ## Prioridad Alta
 
-- [ ] [[Hacer un hexcrawl]]
-- [ ] [[Crear El setting]]
-- [ ] [[Hacer los BBEGs]]
-- [ ] [[Llenar el mapa de calabozos]]
-- [ ] Mandar el mensaje por el grupo principal
-- [ ] Hacer una guia de como preparar para una sesion
+- [ ] Hacer el sistema del mercado y creacion de items
 
 
 ## En proceso
 
-- [ ] Hacer el discord
-	- [x] Crear el discord
-	- [ ] Definir la estructura
-	- [ ] Hacer la estructura
-- [ ] Terminar la primera version de Kanban
+- [ ] [[Llenar el mapa de rumores y calabozos]]
 
 
 ## Completado
 
+- [ ] Mandar el mensaje por el grupo principal
+- [ ] Hacer una guia de como preparar para una sesion
+- [ ] Leer el librito del gm
+- [ ] Definir bien las reglas que escribi ayer
+- [ ] Decidir en las reglas de movimiento entre sesiones
+- [ ] [[Hacer los BBEGs]]
+- [ ] [[Crear El setting]]
+- [ ] Hacer el discord
+	- [x] Crear el discord
+	- [x] Definir la estructura
+	- [x] Hacer la estructura
+- [ ] [[Hacer un hexcrawl]]
+- [ ] Terminar la primera version de Kanban
 - [ ] Crear el Readme
 - [ ] Crear la estructura de archivos
 - [ ] Crear el Obsidian con Github

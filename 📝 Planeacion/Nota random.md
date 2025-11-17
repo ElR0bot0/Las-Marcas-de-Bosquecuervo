@@ -1,13 +1,14 @@
 # Estructura del discord 
-- [ ] Para jugadores
-	- [ ] Reglas del sistema
-		- [ ] Poner los recursos de las reglas
-	- [ ] Suplementos
-	- [ ] Creación de personajes
+- [x] Para jugadores
+	- [x] Reglas del sistema
+		- [x] Poner los recursos de las reglas
+		- [x] Hacer la 
+	- [x] Suplementos
+	- [x] Creación de personajes
 		- [x] Subir el pdf de heroes
 		- [x] Subir el PDF de 
-	- [ ] Objetos magicos
-	- [ ] Agendar Sesiones
+	- [x] La tienda
+	- [x] Agendar Sesiones
 - [x] Para Directores de juego
 	- [x] Loot guidelines
 	- [x] Como preparar
